@@ -15,5 +15,7 @@
 
 DSDTs was generated with SSDTTime
 
+You MUST generate a new serial with GenSMBIOS, iMacPro1,1 is OK
+
 
 Tested with Sonoma(14.5)
